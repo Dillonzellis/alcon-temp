@@ -1,0 +1,20 @@
+
+@use './config/normalize.scss';
+
+$bg:red;
+
+h1{
+    color: $bg;
+}
+
+// h2{
+//     background-color: $steelblue;
+// }
+
+h3{
+    color: $bg;
+}
+
+body{
+    background-color: normalize.$hg;
+}
